@@ -1,1 +1,1 @@
-# geador-cracha-js
+# gerador-cracha-js
